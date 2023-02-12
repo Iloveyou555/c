@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1673066506 source:c:\users\lenovo\desktop\c”Ô—‘\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mywindows.h"
+	"game.h"
+
+1673066393 c:\users\lenovo\desktop\c”Ô—‘\test\mywindows.h
+	<windows.h>
+
+1673066451 c:\users\lenovo\desktop\c”Ô—‘\test\game.h
+	<stdio.h>
+
+1673066375 source:c:\users\lenovo\desktop\c”Ô—‘\test\mywindows.c
+	"mywindows.h"
+
+1673075033 source:c:\users\lenovo\desktop\c”Ô—‘\test\game.c
+	"game.h"
+	"mywindows.h"
+	"data.h"
+	<conio.h>
+	<time.h>
+	<mmsystem.h>
+
+1673066525 c:\users\lenovo\desktop\c”Ô—‘\test\data.h
+
